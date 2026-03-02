@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812291721588",
+    "project_id": "edu-app-a8055",
+    "storage_bucket": "edu-app-a8055.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812291721588:android:33bee8f2a848b8e3330421",
+        "android_client_info": {
+          "package_name": "com.darustrong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIimiycMWHKET-z6aOZcX9-YjKnhGoyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812291721588:android:aa1b2749f3080b8e330421",
+        "android_client_info": {
+          "package_name": "com.edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIimiycMWHKET-z6aOZcX9-YjKnhGoyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
